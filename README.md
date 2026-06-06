@@ -1,2 +1,7 @@
 # 2D-Physics-Project-Python-
-Made a 2D physics application using velocity and gravity. Sadly, I didn't have time to add object collisions. Also, this might look pretty bad since I don't have a lot of experience in Python as of now
+Made a 2D Physics Python simulation.
+Sadly, couldn't add object collisions because I was really tired.
+This code probably looks really bad as I only started Python around early May.
+
+If you want to make this, **I recommend using PyGame**.
+I used PyQt5 for this project.

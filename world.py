@@ -1,0 +1,5 @@
+worldShapes = {
+    "balls": [],
+    "squares": [],
+    "rectangles": []
+}
